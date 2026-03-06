@@ -73,4 +73,4 @@
 
 ---
 **Last Updated:** 2026-03-06  
-**Author:** [GhostWolfLab/Snowwolf]
+**Author:** GhostWolfLab/Snowwolf
