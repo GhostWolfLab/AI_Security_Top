@@ -25,6 +25,7 @@
 基于国际主流安全标准，分析 AI 系统的攻击面。
 *   [**AI 安全风险框架**](./AI安全.md) - 深度解读 **OWASP ML/LLM Top 10**，涵盖 Prompt Injection、数据中毒及模型反演。
 *   [**MCP 专项安全**](./MCP安全.md) - 针对 **Model Context Protocol** 的最新安全研究，包括工具投毒与 Cursor IDE 漏洞分析。
+*   [**skill安全**](./skill安全.md) - 解析skill安全的配置与防御实践。
 
 ### 🏹 三：红队进攻演练
 探索 AI 在网络攻防中作为“武器”的实战利用。
