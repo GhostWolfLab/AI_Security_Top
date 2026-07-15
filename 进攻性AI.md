@@ -139,6 +139,7 @@ docker run --rm -p 127.0.0.1:3000:3000 bkimminich/juice-shop
 更多AI漏洞扫描可以查看以下工具：
 
 + https://github.com/samugit83/redamon
++ https://github.com/ASCIT31/Dark-Moon
 + https://github.com/vxcontrol/pentagi
 + https://github.com/CyberSecurityUP/NeuroSploit
 + https://github.com/PurpleAILAB/Decepticon
